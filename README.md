@@ -1,2 +1,6 @@
 # hello-world
-Dummy stuff
+---
+Dummy stuff: SOme more text and markdown things
+
+Check
+=====
